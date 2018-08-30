@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>ua.rozhkov</groupId>
+    <artifactId>elementary_tasks</artifactId>
+    <packaging>pom</packaging>
+    <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>ElementaryTask-1</module>
+        <module>ElementaryTask-2</module>
+        <module>ElementaryTask-3</module>
+        <module>ElementaryTask-3</module>
+        <module>ElementaryTask-4</module>
+        <module>ElementaryTask-5</module>
+        <module>ElementaryTask-6</module>
+        <module>ElementaryTask-7</module>
+        <module>ElementaryTask-8</module>
+    </modules>
+
+
+</project>
